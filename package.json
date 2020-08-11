@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/vanmer/learn-webpack-app#readme",
   "devDependencies": {
+    "bootstrap": "^4.5.2",
+    "css-loader": "^4.2.1",
+    "style-loader": "^1.2.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
