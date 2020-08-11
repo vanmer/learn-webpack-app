@@ -21,6 +21,7 @@
   "devDependencies": {
     "bootstrap": "^4.5.2",
     "css-loader": "^4.2.1",
+    "html-webpack-plugin": "^4.3.0",
     "node-sass": "^4.14.1",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.3",
@@ -29,6 +30,6 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "jquery": "^1.9.1"
+    "jquery": "^3.5.1"
   }
 }
